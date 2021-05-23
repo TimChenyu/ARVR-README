@@ -1,4 +1,10 @@
-##Problem 2
+## Initialize
+
+To run the program, open my project with Unity. Then make sure to only have the "Select" scene loaded first for the scene selection program to work
+## Problem 1
+## Problem 2
+## Problem 3
+## Problem Inverse
 
 # Header 1
 ## Header 2
