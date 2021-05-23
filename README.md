@@ -8,12 +8,16 @@ Then press play, to enter the program
 
 ## Problem 1
 For problem 1, there are 2 sliders c1 and c2 to control the variables that control the level of distortion to the fragment shader
+![How to Problem 1](https://github.com/TimChenyu/ARVR-README/blob/main/arvr%20pics/HT%20-%20Problem%201.png)
 
 ## Problem 2
 For problem 2, there are 6 sliders to control the amount of offset the level of Lateral Chromatic Aberration
+![How to Problem 2](https://github.com/TimChenyu/ARVR-README/blob/main/arvr%20pics/HT%20-%20Problem%202.png)
 
 ## Problem 3
 For problem 1, there are 2 sliders c1 and c2 to control the variables that control the level of distortion applied to the vertex shader
+![How to Problem 3](https://github.com/TimChenyu/ARVR-README/blob/main/arvr%20pics/HT%20-%20Problem%203.png)
+
 ## Problem Inverse
 
 # Header 1
