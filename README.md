@@ -15,32 +15,9 @@ For problem 2, there are 6 sliders to control the amount of offset the level of 
 ![How to Problem 2](https://github.com/TimChenyu/ARVR-README/blob/main/arvr%20pics/HT%20-%20Problem%202.png)
 
 ## Problem 3
-For problem 1, there are 2 sliders c1 and c2 to control the variables that control the level of distortion applied to the vertex shader
+For problem 3, there are 2 sliders c1 and c2 to control the variables that control the level of distortion applied to the vertex shader
 ![How to Problem 3](https://github.com/TimChenyu/ARVR-README/blob/main/arvr%20pics/HT%20-%20Problem%203.png)
 
 ## Problem Inverse
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TimChenyu/ARVR-README/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+To apply the inverse, there is a toggle in the inspector that can apply the inverse for all 3 complex meshes for problem 3
+![How to Inverse](https://github.com/TimChenyu/ARVR-README/blob/main/arvr%20pics/InkedHT%20-%20Inverse_LI.jpg)
