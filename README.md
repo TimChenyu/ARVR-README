@@ -1,7 +1,9 @@
 ## Initialize
 
 To run the program, open my project with Unity. Then make sure to only have the "Select" scene loaded first for the scene selection program to work
-![How to Init](https://github.com/TimChenyu/ARVR-README/blob/main/arvr%20pics/HT%20-%20Init.png）
+
+![How to Init](https://github.com/TimChenyu/ARVR-README/blob/main/arvr%20pics/HT%20-%20Init.png)
+
 ## Problem 1
 ## Problem 2
 ## Problem 3
