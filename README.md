@@ -23,3 +23,6 @@ For problem 3, there are 2 sliders c1 and c2 to control the variables that contr
 ## Problem Inverse
 To apply the inverse, there is a toggle in the inspector that can apply the inverse for all 3 complex meshes for problem 3
 ![How to Inverse](https://github.com/TimChenyu/ARVR-README/blob/main/arvr%20pics/InkedHT%20-%20Inverse_LI.jpg)
+
+## Bugs
+In case the sliders dont show up, the variables can also be changed in the inspector, but you would have to exit play mode and then load the first scene again go navigate through the scenes.
